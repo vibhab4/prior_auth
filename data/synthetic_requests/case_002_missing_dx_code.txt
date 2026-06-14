@@ -1,0 +1,21 @@
+PRIOR AUTHORIZATION REQUEST
+
+Patient: [SYNTHETIC] Morgan P., DOB 09/22/1965 (Age 60), Sex: F
+Requesting Provider: Dr. L. Chen, Sports Medicine Clinic
+Date of Request: 06/11/2026
+
+Requested Service: Right knee arthroscopy with partial meniscectomy, outpatient
+Requested CPT: 29881 (Arthroscopy, knee, surgical; with meniscectomy)
+
+Diagnosis: Medial meniscus tear, right knee, with mechanical symptoms.
+
+Clinical Notes:
+Patient reports 5 months of right knee pain and intermittent locking
+or catching, worse with twisting motions and stairs. MRI performed
+03/2026 shows a complex tear of the medial meniscus with a displaced
+fragment. Patient completed a course of physical therapy and a
+corticosteroid injection in 04/2026 with only temporary relief. Exam
+shows joint line tenderness, a positive McMurray test, and mild
+effusion. Ordering provider recommends arthroscopic partial
+meniscectomy given failed conservative treatment and ongoing
+mechanical symptoms.

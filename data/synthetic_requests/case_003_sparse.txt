@@ -1,0 +1,10 @@
+PRIOR AUTHORIZATION REQUEST
+
+Patient: [SYNTHETIC] Casey B.
+Requesting Provider: Dr. R. Patel
+
+Requested Service: Imaging study for shoulder pain
+
+Clinical Notes:
+Patient has had shoulder pain for a while. Provider would like
+imaging to look into it further.
