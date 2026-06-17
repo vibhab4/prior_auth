@@ -6,6 +6,9 @@ __pycache__/
 .pytest_cache/
 .claude/settings.local.json
 
+# Generated vector store index -- regenerate by running scripts/build_index.py
+data/vectorstore/
+
 # Local planning/process docs -- not pushed to the repo
 CLAUDE.md
 DECISIONS.md

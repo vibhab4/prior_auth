@@ -1,0 +1,140 @@
+# Source: Knee Arthroscopy / Osteoarthritis of the Knee
+# Issuer: Aetna Clinical Policy Bulletin (CPB) Number 0673
+# URL: https://www.aetna.com/cpb/medical/data/600_699/0673.html
+# Retrieved: 2026-06-16
+# CPT Codes: 29881 (knee arthroscopy with meniscectomy, medial or lateral),
+#             29882 (knee arthroscopy with meniscus repair), 29870 (diagnostic arthroscopy)
+# Relevant ICD-10: M23.20x (internal derangement of meniscus, unspecified),
+#                  M23.21x (derangement of anterior horn of medial meniscus),
+#                  M23.22x (derangement of posterior horn of medial meniscus),
+#                  S83.20xA (tear of unspecified meniscus, current injury)
+# Notes: Aetna's CPB criteria for knee arthroscopy are representative of commercial
+#        payer medical necessity standards. The core criteria (MRI-confirmed pathology,
+#        failed 6-week conservative therapy, mild OA) are widely used across payers
+#        and align with the medical evidence base cited by Medicare contractors.
+
+## COVERAGE INDICATIONS — MEDICALLY NECESSARY
+
+### Arthroscopic Knee Surgery (with or without Partial Meniscectomy or Meniscal Repair)
+
+Arthroscopic knee surgery is considered medically necessary for persons presenting
+with ALL of the following criteria:
+1. Significant knee pain PLUS mechanical symptoms (e.g., locking, catching, giving way)
+2. No more than mild osteoarthritis (Kellgren-Lawrence Grade 0, 1, or 2; OR modified
+   Outerbridge Grade 0, 1, or 2)
+3. Radiologic confirmation of the pathology:
+   - X-ray for loose bodies
+   - MRI for meniscal tears and/or loose bodies
+4. Failure of conservative therapy (see definition below)
+
+### Arthroscopic Partial Meniscectomy or Meniscal Repair for Traumatic Meniscal Tears
+
+Arthroscopic partial meniscectomy or meniscal repair is considered medically necessary
+when ALL of the following criteria are met:
+1. Traumatic meniscal tear with significant symptoms
+2. No more than mild osteoarthritis (Kellgren-Lawrence Grade 0, 1, or 2; OR modified
+   Outerbridge Grade 0, 1, or 2)
+3. MRI confirmation of the meniscal pathology
+4. Failure of conservative therapy (see definition below)
+
+Note: Conservative treatment may be waived if the member's knee is "locked" due to
+a displaced bucket handle tear of the meniscus, as this is a surgical emergency that
+cannot safely await a trial of conservative management.
+
+### Arthroscopic Meniscal Repair for Meniscal Root Tears
+
+Arthroscopic meniscal repair is considered medically necessary for the treatment of
+medial and/or lateral meniscal root tears for members who have:
+- Significant symptoms
+- No more than mild osteoarthritis
+
+## CONSERVATIVE THERAPY REQUIREMENT
+
+History of unsuccessful conservative therapy is required before surgical authorization.
+Conservative therapy is defined as non-surgical medical management including at least
+six (6) weeks of formal, in-person physical therapy within the past year.
+
+Requirements for conservative therapy documentation:
+- Physical therapy must be in-person (not home-based or virtual PT)
+- PT course must be confirmed by actual PT notes OR documentation in the member's
+  claims history
+- Documentation should include dates, frequency, and type of treatment received,
+  and the clinical response (or lack thereof)
+
+Exception: Conservative treatment requirement may be waived if the patient's knee is
+"locked" due to a displaced bucket handle tear of the meniscus, representing a
+mechanical block to range of motion requiring urgent intervention.
+
+## IMAGING REQUIREMENTS
+
+Prior authorization for knee arthroscopy requires radiologically proven pathology:
+- MRI of the knee confirming meniscal tear, meniscal root tear, or loose body
+- Arthroscopy is only considered medically necessary and covered for persons with
+  radiologically proven pathology meeting the above criteria
+- The MRI must confirm the specific pathology for which surgery is planned
+
+## NON-COVERED INDICATIONS (NOT MEDICALLY NECESSARY)
+
+### Arthroscopic Debridement for Osteoarthritis
+
+Arthroscopic debridement is NOT medically necessary for persons with osteoarthritis
+of the knee presenting with:
+- Knee pain only (without mechanical symptoms), OR
+- Severe osteoarthritis (Outerbridge classification III or IV)
+
+Rationale: Clinical evidence does not demonstrate that arthroscopic debridement or
+lavage provides lasting benefit over sham surgery or conservative management for
+patients with osteoarthritis-related knee pain without a defined mechanical lesion.
+
+### Meniscectomy for Meniscal Root Tears (Open or Arthroscopic)
+
+Meniscectomy (arthroscopic or open; total or partial) for the treatment of medial or
+lateral meniscal root tears is considered experimental and investigational. Meniscal
+repair is the preferred approach when a root tear is the primary diagnosis.
+
+### Diagnostic Arthroscopy
+
+Diagnostic knee arthroscopy (CPT code 29870) is generally NOT considered medically
+necessary and is not covered. Knee arthroscopy is only considered medically necessary
+and covered for persons with radiologically proven pathology that meets the criteria
+above. The diagnosis should be established by non-invasive imaging (MRI) prior to
+surgical planning.
+
+## CLINICAL BACKGROUND
+
+### Meniscal Tears and Mechanical Symptoms
+
+The meniscus serves as a shock absorber in the knee joint and plays a critical role
+in load distribution and joint stability. Traumatic meniscal tears (as distinct from
+degenerative tears associated with osteoarthritis) typically occur in younger patients
+through twisting or rotational injury to the knee.
+
+Mechanical symptoms are a key indicator for surgical candidacy. These include:
+- Locking (inability to fully extend the knee, often from a displaced meniscal fragment)
+- Catching or clicking with motion
+- Giving way (sudden loss of stability)
+- Pain with weight-bearing or twisting movements
+
+### Osteoarthritis Grading
+
+The Kellgren-Lawrence (KL) grading system is used to classify severity of knee
+osteoarthritis on plain radiographs:
+- Grade 0: No features of osteoarthritis
+- Grade 1: Doubtful narrowing of joint space; possible osteophytic lipping (mild)
+- Grade 2: Possible narrowing of joint space; definite osteophytes (mild)
+- Grade 3: Definite narrowing of joint space, moderate multiple osteophytes (moderate)
+- Grade 4: Marked narrowing of joint space, large osteophytes, severe sclerosis (severe)
+
+Arthroscopy is NOT expected to provide benefit in the setting of moderate-to-severe
+osteoarthritis (KL Grade 3-4), as the procedure cannot address the underlying
+degenerative joint changes driving symptoms in these patients.
+
+### Conservative Management for Knee Injuries
+
+Conservative management for meniscal tears and knee pain includes:
+- Formal physical therapy (at least 6 weeks, in-person): strengthening, range of motion,
+  proprioceptive training
+- NSAIDs and analgesics for pain management
+- Activity modification and temporary reduction in weight-bearing activities
+- Corticosteroid injections for pain and inflammation
+- Ice, compression, and elevation during acute phase

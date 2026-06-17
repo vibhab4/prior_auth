@@ -1,6 +1,7 @@
 from typing import NotRequired, TypedDict
 
 from prior_auth.schemas.extraction import ExtractedRequest
+from prior_auth.schemas.policy import PolicyChunk
 
 
 class PriorAuthState(TypedDict):
@@ -19,8 +20,11 @@ class PriorAuthState(TypedDict):
     extracted_request: NotRequired[ExtractedRequest]
     extraction_flags: NotRequired[list[str]]
 
+    # --- Written by: retrieve_policy (Node 2) ---
+    retrieved_policy_chunks: NotRequired[list[PolicyChunk]]
+    retrieval_flags: NotRequired[list[str]]
+
     # --- Future fields, added incrementally ---
-    # retrieved_policy_chunks   -> retrieve_policy (Node 2)
     # proposer_decision         -> proposer (Node 3)
     # critic_feedback           -> critic (Node 4)
     # final_decision, final_rationale, confidence, requires_human_review

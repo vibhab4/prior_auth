@@ -1,0 +1,178 @@
+# Source: Lumbar Spine MRI Clinical Guidelines (NIA_CG_044)
+# Issuer: National Imaging Associates, Inc. (NIA), a subsidiary of Magellan Healthcare
+#         Published via AmeriHealth Caritas Louisiana
+# CPT Codes: 72148, 72149, 72158, +0698T
+# Guideline Number: NIA_CG_044
+# Original Date: September 1997 | Last Revised: April 2021
+# Retrieved: 2026-06-16
+# Notes: NIA clinical guidelines are used by managed care payers for prior authorization
+#        decisions. Coverage criteria closely parallel CMS Medicare LCDs (e.g., L34220)
+#        and draw on the same ACR, NASS, and AAFP evidence base.
+
+## INDICATIONS FOR LUMBAR SPINE MRI
+
+### For Evaluation of Neurologic Deficits
+(Acharya, 2019; ACR, 2013; NASS, 2010; Stolper, 2017)
+
+Lumbar spine MRI is indicated with any of the following new neurological deficits
+documented on physical exam:
+- Extremity muscular weakness
+- Pathologic or abnormal reflexes
+- Absent/decreased sensory changes along a particular lumbar dermatome (nerve
+  distribution): pin prick, touch, vibration, proprioception, or temperature
+- Lower extremity increased muscle tone/spasticity
+- New onset bowel or bladder dysfunction (e.g., retention or incontinence)
+- Gait abnormalities
+- New onset foot drop
+
+Also indicated for Cauda Equina Syndrome, evidenced by severe back pain/sciatica
+along with one or more of: saddle anesthesia (loss of sensation in buttocks, perineum,
+inner thighs), recent bladder/bowel dysfunction, Achilles reflex absent bilaterally,
+sexual dysfunction, or absent anal reflex/bulbocavernosus reflex.
+
+### For Evaluation of Back Pain
+(AAFP, 2012; ACEP, 2014; ACR, 2015; Allegri, 2016; Ammendolia, 2015; Jarvik, 2015;
+Last, 2009; NASS, 2013; Quaseem, 2017; Schneider, 2019)
+
+Lumbar spine MRI is indicated for back pain with any of the following:
+- New or worsening objective neurologic deficits on exam (as listed above)
+- Failure of conservative treatment* for at least six (6) weeks within the last six
+  (6) months
+- Progression or worsening of symptoms during the course of conservative treatment*
+- Abnormal electromyography (EMG) or nerve conduction study (if performed) indicating
+  a lumbar radiculopathy (EMG is not recommended to determine the cause of axial lumbar,
+  thoracic, or cervical spine pain)
+
+### For Pediatric Back Pain
+(ACR, 2016)
+
+Isolated back pain in pediatric population — conservative care not required if red
+flags are present. Red flags prompting imaging include: age 5 or younger, constant pain,
+pain lasting >4 weeks, abnormal neurologic examination, early morning stiffness and/or
+gelling, night pain that prevents or disrupts sleep, radicular pain, fever, weight loss,
+malaise, postural changes (e.g., kyphosis or scoliosis), and limp (or refusal to walk
+in a child <5yo) AND initial radiographs have been performed. Also indicated for back
+pain associated with suspected inflammation, infection, or malignancy.
+
+### For Post-Operative or Post-Procedural Evaluation
+
+As part of initial post-operative/procedural evaluation:
+- For preoperative evaluation/planning
+- CSF leak highly suspected and supported by patient history and/or physical exam
+  findings (e.g., known or suspected spontaneous intracranial hypotension, post lumbar
+  puncture headache, post spinal surgery headache, orthostatic headache)
+- Follow-up study needed to evaluate a patient's progress after treatment, procedure,
+  intervention, or surgery in the last 6 months — documentation must clearly indicate
+  why additional imaging is needed
+- Changing neurologic status post-operatively
+- Surgical infection evidenced by signs/symptoms, laboratory, or prior imaging findings
+- Residual or new neurological deficits or symptoms post-operatively
+
+### For Pars Defect (Spondylolysis) or Spondylolisthesis
+
+- Pars defect or spondylolisthesis in adults when Flexion/Extension x-rays show
+  instability
+- Clinically suspected pars defect not seen on plain films in pediatric population
+  (<18 yr) when imaging would change treatment
+
+### For Compression Fractures
+(ACR, 2018)
+
+- With history of malignancy (to differentiate benign osteoporotic from metastatic
+  disease)
+- With an associated new focal neurologic deficit
+- Prior to a planned surgery/intervention or if MRI results will change management
+
+### For Tumor, Cancer, or Metastasis Evaluation
+
+MRI is usually the preferred study. Indications include:
+- Primary tumor: initial staging or re-staging; known primary tumor with new signs or
+  symptoms (new pain, physical, laboratory, and/or imaging findings); associated new
+  focal neurologic deficit
+- Metastatic tumor: evidence of metastasis on bone scan needing further clarification;
+  known malignancy with new signs or symptoms; initial imaging of new or increasing
+  non-traumatic back pain or radiculopathy in a patient with known active cancer that
+  tends to metastasize to the spine
+
+### For Inconclusive or Indeterminate Prior Imaging
+
+- One follow-up exam to ensure no suspicious change has occurred. No further
+  surveillance unless specified as highly suspicious or change was found on last
+  follow-up exam.
+
+### For Infection, Abscess, or Inflammatory Disease
+(ACR, 2015; Lerner, 2018)
+
+- Infection as evidenced by signs and/or symptoms, laboratory (abnormal white blood
+  cell count, ESR and/or CRP) or prior imaging findings
+- Follow-up imaging of infection with worsening symptoms/laboratory values or
+  radiographic findings
+- Spondyloarthropathies (e.g., Ankylosing Spondylitis) with non-diagnostic or
+  indeterminate x-ray and rheumatology workup
+
+### For Spine Abnormalities Related to Immune Suppression
+(ACR, 2018)
+
+- As evidenced by signs/symptoms, laboratory, or prior imaging findings (HIV,
+  chemotherapy, leukemia, or lymphoma)
+
+### Other Indications
+
+- Tethered cord or spinal dysraphism (known or suspected) based on preliminary imaging,
+  neurological exam, and/or high-risk cutaneous stigmata
+- Known anorectal malformations
+
+## CONSERVATIVE THERAPY DEFINITION
+
+*Conservative Therapy (Spine) should include a multimodality approach consisting of a
+combination of active and inactive components.
+
+Inactive components: rest, ice, heat, modified activities, medical devices, acupuncture
+and/or stimulators, medications, injections (epidural, facet, bursal, and/or joint,
+not including trigger point), and diathermy.
+
+Active modalities: physical therapy, a physician-supervised home exercise program**,
+and/or osteopathic manipulative medicine (OMT) or chiropractic care.
+
+**Home Exercise Program (HEP)/Therapy — the following elements are required to meet
+guidelines for completion of conservative therapy (ACR, 2015; Last, 2009):
+- Information provided on exercise prescription/plan; AND
+- Follow-up with member with documentation provided regarding lack of improvement
+  (failed) after completion of HEP (after suitable 6-week period), or inability to
+  complete HEP due to physical reason (i.e., increased pain, inability to physically
+  perform exercises). Patient inconvenience or noncompliance without explanation does
+  not constitute "inability to complete" HEP.
+- Dates and duration of failed PT, physician-supervised HEP, or chiropractic treatment
+  must be documented in the original office notes or an addendum to the notes.
+
+## BACKGROUND: MRI AND BACK PAIN
+
+Magnetic resonance imaging (MRI) is used in the evaluation, diagnosis, and management
+of spine-related conditions, e.g., degenerative disc disease, cauda equina compression,
+radiculopathy, infections, or cancer in the lumbar spine. MRI provides high quality
+multiplanar images of organs and structures within the body without the use of x-rays
+or radiation.
+
+Radiculopathy, disease of the nerve roots, is the most common indication for MRI of
+patients with low back pain. The nerve roots become irritated and inflamed, due to
+direct pressure from degenerative changes in the lumbar spine, creating pain and
+numbness. Symptoms of radiculopathy also include muscle weakness. MRI is indicated
+for this condition if the symptoms do not improve after conservative treatment over
+six weeks. MRI is also performed to evaluate Cauda equina syndrome and severe spinal
+compression.
+
+Key clinical note: Spinal imaging tests are not generally necessary during the first
+month of symptoms except when a "red flag" (suggesting a medically emergent condition)
+is noted on the medical history and physical examination. Eighty (80) to ninety (90)
+percent of patients with low back pain improve one month after symptom onset even
+without treatment.
+
+## CAUDA EQUINA SYNDROME
+
+Symptoms include severe back pain or sciatica along with one or more of the following:
+- Saddle anesthesia — loss of sensation restricted to the area of the buttocks,
+  perineum, and inner surfaces of the thighs
+- Recent bladder/bowel dysfunction (retention or incontinence)
+- Achilles reflex absent on both sides
+- Sexual dysfunction that can come on suddenly
+- Absent anal reflex and bulbocavernosus reflex

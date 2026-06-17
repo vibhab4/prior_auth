@@ -6,6 +6,12 @@ requires-python = ">=3.11"
 dependencies = [
     "langgraph",
     "langchain-anthropic",
+    "langchain-community",
+    "langchain-text-splitters",
+    "langchain-huggingface",
+    "langchain-chroma",
+    "sentence-transformers",
+    "chromadb",
     "pydantic",
     "python-dotenv",
 ]

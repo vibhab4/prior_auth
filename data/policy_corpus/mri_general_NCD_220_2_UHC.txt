@@ -1,0 +1,207 @@
+# Source: Magnetic Resonance Imaging (MRI) — Reimbursement Policy (NCD 220.2)
+# Issuer: UnitedHealthcare Medicare Advantage, Policy Number 220.2
+# Approved By: UnitedHealthcare Medicare Reimbursement Policy Committee
+# Approval Date: 05/14/2014
+# Reference: CMS National Coverage Determination (NCD) Manual, Chapter 1, §220.2
+# Retrieved: 2026-06-16
+# Notes: This UHC policy directly implements CMS NCD 220.2 for MRI. It applies to
+#        Medicare Advantage plans and reflects the nationally-determined coverage
+#        criteria for MRI services. For uses not addressed by NCD 220.2, coverage
+#        is at the discretion of local Medicare Administrative Contractors (MACs)
+#        via Local Coverage Determinations (LCDs).
+
+## OVERVIEW
+
+Magnetic Resonance Imaging (MRI) is a non-invasive method of graphically representing
+the distribution of water and other hydrogen-rich molecules in the human body. Unlike
+conventional radiographs or computed tomography (CT) scans, MRI is capable of producing
+images by several techniques. The basic elements by which MRI produces an image are the
+density of hydrogen nuclei in the object being examined, their motion, and the relaxation
+times.
+
+Among the advantages of MRI are the absence of ionizing radiation and the ability to
+achieve high levels of tissue contrast resolution without injected iodinated radiological
+contrast agents. The use of MRI for soft tissue structures for the purpose of detecting
+disruptive, neoplastic, degenerative, or inflammatory lesions has become established in
+medical practice.
+
+Coverage is limited to MRI units that have received FDA premarket approval, and such
+units must be operated within the parameters specified by the approval. In addition,
+services must be reasonable and necessary for the diagnosis or treatment of the specific
+patient involved.
+
+## NATIONALLY COVERED MRI INDICATIONS
+
+### 1. MRI (Structural Imaging)
+
+Although several uses of MRI are still considered investigational and some are clearly
+contraindicated, MRI is considered medically efficacious for a number of uses. The
+following are general guidelines or examples of what may be considered covered, rather
+than a restrictive list of specific covered indications:
+
+a) Head, Central Nervous System, and Spine (Effective November 22, 1985):
+   MRI is useful in examining the head, central nervous system, and spine. Multiple
+   sclerosis can be diagnosed with MRI and the contents of the posterior fossa are
+   visible. The inherent tissue contrast resolution of MRI makes it an appropriate
+   standard diagnostic modality for general neuroradiology.
+
+b) Mediastinal/Retroperitoneal Masses and Soft Tissue (Effective November 22, 1985):
+   MRI can assist in the differential diagnosis of mediastinal and retroperitoneal
+   masses, including abnormalities of the large vessels such as aneurysms and dissection.
+   When a clinical need exists to visualize parenchyma of solid organs to detect anatomic
+   disruption or neoplasia, this can be accomplished in the liver, urogenital system,
+   adrenals, and pelvic organs without the use of radiological contrast materials. When
+   MRI is considered reasonable and necessary, the use of paramagnetic contrast materials
+   may be covered as part of the study. MRI may also be used to detect and stage pelvic
+   and retroperitoneal neoplasms and to evaluate disorders of cancellous bone and soft
+   tissues. It may also be used in the detection of pericardial thickening. Primary and
+   secondary bone neoplasm and aseptic necrosis can be detected at an early stage with
+   MRI. Patients with metallic prostheses, especially of the hip, can be imaged in order
+   to detect the early stages of infection of the bone to which the prosthesis is attached.
+
+c) Cardiac and Respiratory Gating (Effective March 4, 1991):
+   MRI with gating devices and surface coils, and gating devices that eliminate distorted
+   images caused by cardiac and respiratory movement cycles, are now considered state of
+   the art techniques and may be covered. Surface and other specialty coils may also be
+   covered, as they are used routinely for high resolution imaging where small limited
+   regions of the body are studied.
+
+d) Disc Disease (Effective March 22, 1994):
+   MRI may also be covered to diagnose disc disease without regard to whether radiological
+   imaging has been tried first to diagnose the problem.
+
+### 2. MRA (Magnetic Resonance Angiography — MRI for Blood Flow)
+
+Currently covered indications include using MRA for specific conditions to evaluate flow
+in internal carotid vessels of the head and neck, peripheral arteries of lower
+extremities, abdomen and pelvis, and the chest. Coverage is limited to MRI units with
+FDA premarket approval, and such units must be operated within parameters specified by
+the approval.
+
+#### a) Head and Neck MRA (Effective April 15, 2003)
+All of the following criteria must apply:
+- MRA is used to evaluate the carotid arteries, the circle of Willis, the anterior,
+  middle or posterior cerebral arteries, the vertebral or basilar arteries, or the
+  venous sinuses
+- MRA is performed on patients with conditions of the head and neck for which surgery
+  is anticipated and may be found to be appropriate based on the MRA (conditions
+  include, but are not limited to: tumor, aneurysms, vascular malformations, vascular
+  occlusion or thrombosis)
+- MRA and conventional angiography (CA) are not expected to be performed on the same
+  patient for diagnostic purposes prior to the application of anticipated therapy;
+  only one of these tests will be covered routinely unless the physician can demonstrate
+  the medical need to perform both
+
+#### b) Peripheral Arteries of Lower Extremities MRA (Effective April 15, 2003)
+Effective for determining the presence and extent of peripheral vascular disease in
+lower extremities. Medicare will cover either MRA or CA to evaluate peripheral arteries
+of the lower extremities; both may be useful in some cases (e.g., when CA is
+inconclusive or when viable runoff vessel cannot be identified for bypass planning).
+
+#### c) Abdomen and Pelvis MRA
+- Pre-operative evaluation of patients undergoing elective Abdominal Aortic Aneurysm
+  (AAA) repair (Effective July 1, 1999)
+- Imaging of the Renal Arteries and the Aortoiliac Arteries in the Absence of AAA or
+  Aortic Dissection (Effective July 1, 2003): MRA should be obtained when physician
+  history, physical examination, and standard assessment tools provide insufficient
+  information for patient management, and obtaining an MRA has a high probability of
+  positively affecting patient management.
+
+#### d) Chest MRA
+- Diagnosis of Pulmonary Embolism: Medicare will cover MRA of the chest for diagnosing
+  a suspected pulmonary embolism when it is contraindicated for the patient to receive
+  intravascular iodinated contrast material
+- Evaluation of Thoracic Aortic Dissection and Aneurysm: MRA of the chest has a high
+  level of diagnostic accuracy for pre-operative and post-operative evaluation; may be
+  used as an alternative to transesophageal echocardiography and CT
+
+#### e) Cardiac MRA for Velocity Flow Mapping
+Cardiac velocity flow mapping is considered medically reasonable and necessary for
+quantitative assessment of structural defects including:
+- Magnitude of cardiac shunt fractions in patients with atrial septal defect,
+  ventricular septal defect, or patent ductus arteriosus
+- Valvular regurgitation fractions in patients with valvular regurgitation or
+  insufficiency
+- Grading of valvular, subvalvular, or supravalvular stenosis
+- Evaluation of differential flow of the pulmonary arteries in Tetrology of Fallot
+
+## NATIONALLY NON-COVERED INDICATIONS
+
+### MRI Contraindications
+
+The MRI is NOT covered when the following patient-specific contraindications are
+present:
+- Patients with cardiac pacemakers or with metallic clips on vascular aneurysms
+
+Exceptions:
+- Effective July 7, 2011: The contraindications will not apply to pacemakers when
+  used according to the FDA-approved labeling in an MRI environment
+- Effective February 24, 2011: CMS believes that the evidence is promising (although
+  not yet convincing) that MRI will improve patient health outcomes if certain
+  safeguards are in place to ensure that the exposure of the device to an MRI
+  environment adversely affects neither the interpretation of the MRI result nor the
+  proper functioning of the implanted cardiac device
+
+### Non-Covered MRI Uses
+
+CMS has determined that MRI of cortical bone and calcifications, and procedures
+involving spatial resolution of bone and calcifications, are NOT considered reasonable
+and necessary indications within the meaning of section 1862(a)(1)(A) of the Act,
+and are therefore non-covered.
+
+### Non-Covered MRA Uses
+
+The following MRA services are considered NOT medically reasonable and necessary:
+- MRA of the spinal canal and contents
+- MRA of the upper Extremities
+
+## COVERAGE FOR UNLISTED INDICATIONS
+
+Effective June 3, 2010, all other uses of MRI or MRA for which CMS has not
+specifically indicated national coverage or national non-coverage continue to be
+eligible for coverage through individual local contractor discretion. For unspecified
+body regions or uses not addressed by this NCD, coverage decisions are made by the
+patient's Medicare Administrative Contractor (MAC) via Local Coverage Determinations
+(LCDs).
+
+## APPLICABLE CPT/HCPCS CODES — SPINE AND MUSCULOSKELETAL MRI
+
+Lumbar spine MRI:
+- 72148: MRI, spinal canal and contents, lumbar; without contrast material
+- 72149: MRI, spinal canal and contents, lumbar; with contrast material(s)
+- 72158: MRI, spinal canal and contents, lumbar; without contrast, followed by
+         contrast material(s) and further sequences
+
+Cervical spine MRI:
+- 72141: MRI, spinal canal and contents, cervical; without contrast material
+- 72142: MRI, spinal canal and contents, cervical; with contrast material(s)
+
+Lower extremity joint MRI (includes knee):
+- 73721: MRI, any joint of lower extremity; without contrast material
+- 73722: MRI, any joint of lower extremity; with contrast material(s)
+- 73723: MRI, any joint of lower extremity; without contrast, followed by contrast
+         material(s) and further sequences
+
+Upper extremity joint MRI (includes shoulder):
+- 73221: MRI, any joint of upper extremity; without contrast material(s)
+- 73222: MRI, any joint of upper extremity; with contrast material(s)
+- 73223: MRI, any joint of upper extremity; without contrast, followed by contrast
+
+## REIMBURSEMENT GUIDELINES (MEDICARE ADVANTAGE)
+
+- Claims with ICD-9 diagnosis code V45.01 (pacemaker) will be denied unless modifier
+  KX is also present on the line, confirming that requirements of the medical policy
+  have been met (effective July 7, 2011)
+- Modifier KX: Requirements specified in the medical policy have been met
+- Medicare will allow coverage of MRI for beneficiaries with implanted PMs or
+  cardioverter defibrillators (ICDs) for use in an MRI environment in a
+  Medicare-approved clinical study (effective February 24, 2011)
+
+## REFERENCES
+
+- CMS National Coverage Determinations Manual, Chapter 1, §220.2
+- NCD 220.2 Magnetic Resonance Imaging (national policy)
+- NCD 220.2.1 Magnetic Resonance Spectroscopy
+- NCD 220.3 Magnetic Resonance Angiography
+- CMS Benefit Policy Manual Chapter 15, §80.62
+- CMS Claims Processing Manual Chapter 13, §40-40.2
