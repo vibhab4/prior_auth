@@ -1,8 +1,7 @@
 """Run the compiled LangGraph graph end-to-end against all sample cases.
 
-This is the first time we exercise .invoke() on a compiled graph rather
-than calling nodes directly. It's the definitive end-to-end smoke test for
-the Phase 1 pipeline as it exists so far (extract -> retrieve).
+Exercises .invoke() on the full compiled graph (extract -> retrieve ->
+propose). Prints node outputs for each case for visual inspection.
 
 Usage:
     python scripts/run_graph.py
@@ -62,6 +61,31 @@ def main() -> None:
                 f" | {chunk.source_document}"
                 f" | {chunk.subsection or chunk.section or 'N/A'}"
             )
+
+        # Proposer results
+        decision = final_state.get("proposer_decision")
+        print(f"\n[Node 3 - propose_coverage]")
+        print(f"  proposer_flags: {final_state.get('proposer_flags', [])}")
+        if decision:
+            print(f"  proposed_decision : {decision.proposed_decision}")
+            print(f"  confidence        : {decision.confidence}")
+            print(f"  criteria_met      : {len(decision.criteria_met)}")
+            print(f"  criteria_unmet    : {len(decision.criteria_unmet)}")
+            print(f"  policy_citations  : {len(decision.policy_citations)}")
+            print(f"  rationale preview : {decision.rationale[:200]}...")
+
+        # Critic results
+        feedback = final_state.get("critic_feedback")
+        print(f"\n[Node 4 - critique_proposal]")
+        print(f"  critic_flags: {final_state.get('critic_flags', [])}")
+        if feedback:
+            print(f"  endorses_decision  : {feedback.endorses_decision}")
+            print(f"  suggested_decision : {feedback.suggested_decision}")
+            print(f"  confidence         : {feedback.confidence}")
+            print(f"  challenged_cites   : {len(feedback.challenged_citations)}")
+            print(f"  missed_criteria    : {len(feedback.missed_criteria)}")
+            print(f"  reasoning_gaps     : {len(feedback.reasoning_gaps)}")
+            print(f"  summary preview    : {feedback.critique_summary[:200]}...")
 
 
 if __name__ == "__main__":

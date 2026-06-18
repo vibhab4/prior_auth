@@ -8,7 +8,9 @@ node (Node 5) is built.
 
 from langgraph.graph import END, START, StateGraph
 
+from prior_auth.nodes.critique import critique_proposal
 from prior_auth.nodes.extract import extract_request
+from prior_auth.nodes.propose import propose_coverage
 from prior_auth.nodes.retrieve_policy import retrieve_policy
 from prior_auth.state import PriorAuthState
 
@@ -16,8 +18,9 @@ from prior_auth.state import PriorAuthState
 def build_graph():
     """Build and compile the prior-auth review graph.
 
-    Current topology (Phase 1, Increments 1-2):
-        START -> extract_request -> retrieve_policy -> END
+    Current topology (Phase 1, Increments 1-4):
+        START -> extract_request -> retrieve_policy -> propose_coverage
+             -> critique_proposal -> END
 
     Returns a compiled LangGraph graph that accepts PriorAuthState-shaped
     dicts via .invoke() / .stream().
@@ -26,9 +29,13 @@ def build_graph():
 
     graph.add_node("extract_request", extract_request)
     graph.add_node("retrieve_policy", retrieve_policy)
+    graph.add_node("propose_coverage", propose_coverage)
+    graph.add_node("critique_proposal", critique_proposal)
 
     graph.add_edge(START, "extract_request")
     graph.add_edge("extract_request", "retrieve_policy")
-    graph.add_edge("retrieve_policy", END)
+    graph.add_edge("retrieve_policy", "propose_coverage")
+    graph.add_edge("propose_coverage", "critique_proposal")
+    graph.add_edge("critique_proposal", END)
 
     return graph.compile()
