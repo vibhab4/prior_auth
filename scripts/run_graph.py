@@ -87,6 +87,22 @@ def main() -> None:
             print(f"  reasoning_gaps     : {len(feedback.reasoning_gaps)}")
             print(f"  summary preview    : {feedback.critique_summary[:200]}...")
 
+        # Final decision
+        final = final_state.get("final_decision")
+        print(f"\n[Node 5 - judge_decision]  *** FINAL OUTPUT ***")
+        print(f"  judge_flags           : {final_state.get('judge_flags', [])}")
+        if final:
+            print(f"  final_decision        : {final.final_decision}")
+            print(f"  confidence            : {final.confidence}")
+            print(f"  requires_human_review : {final.requires_human_review}")
+            if final.human_review_reasons:
+                for r in final.human_review_reasons:
+                    print(f"    reason: {r}")
+            print(f"  key_factors ({len(final.key_factors)}):")
+            for kf in final.key_factors:
+                print(f"    - {kf}")
+            print(f"  rationale preview     : {final.final_rationale[:300]}...")
+
 
 if __name__ == "__main__":
     main()

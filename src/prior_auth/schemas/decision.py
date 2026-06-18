@@ -128,3 +128,64 @@ class CriticFeedback(BaseModel):
             "excerpts are ambiguous or the clinical picture is genuinely borderline."
         )
     )
+
+
+class FinalDecision(BaseModel):
+    """The definitive coverage determination produced by the judge node (Node 5).
+
+    The judge synthesizes the proposer's recommendation and the critic's review
+    into a single final answer. This is the output of Phase 1 -- the JSON that
+    would be handed to a claims system or human reviewer.
+    """
+
+    final_decision: Literal["approve", "deny", "need_more_info"] = Field(
+        description=(
+            "The final coverage determination. When proposer and critic agree, "
+            "lean toward their shared decision. When they disagree, be conservative "
+            "and lean toward need_more_info unless one position is clearly stronger."
+        )
+    )
+
+    final_rationale: str = Field(
+        description=(
+            "Complete auditable explanation of the decision. Must walk through: "
+            "(1) what the request is, (2) what the applicable policy says, "
+            "(3) which criteria are met and which aren't, (4) how the proposer and "
+            "critic inputs were weighed. This is what a human reviewer reads to "
+            "understand and verify the decision."
+        )
+    )
+
+    key_factors: list[str] = Field(
+        description=(
+            "The 2-4 most decisive factors that determined the outcome. Each factor "
+            "should be a specific criterion, finding, or flag -- not a general "
+            "statement. These are the headline reasons for the decision."
+        )
+    )
+
+    confidence: float = Field(
+        description=(
+            "Overall confidence (0.0-1.0) in the final decision after weighing "
+            "the proposer, critic, and all upstream flags. Use lower values when "
+            "the proposer and critic disagreed, when policy coverage is ambiguous, "
+            "or when clinical documentation was incomplete."
+        )
+    )
+
+    requires_human_review: bool = Field(
+        description=(
+            "True if a human reviewer should examine this case before the decision "
+            "takes effect. Set to True when: proposer and critic suggested different "
+            "decisions; final confidence < 0.6; no relevant policy was found; or any "
+            "error flag is present upstream."
+        )
+    )
+
+    human_review_reasons: list[str] = Field(
+        description=(
+            "Specific reasons why human review is required. Empty list when "
+            "requires_human_review is False. Each reason should reference the "
+            "specific flag or condition that triggered the review requirement."
+        )
+    )

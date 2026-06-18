@@ -1,6 +1,6 @@
 from typing import NotRequired, TypedDict
 
-from prior_auth.schemas.decision import CriticFeedback, ProposerDecision
+from prior_auth.schemas.decision import CriticFeedback, FinalDecision, ProposerDecision
 from prior_auth.schemas.extraction import ExtractedRequest
 from prior_auth.schemas.policy import PolicyChunk
 
@@ -33,6 +33,6 @@ class PriorAuthState(TypedDict):
     critic_feedback: NotRequired[CriticFeedback]
     critic_flags: NotRequired[list[str]]
 
-    # --- Future fields, added incrementally ---
-    # final_decision, final_rationale, confidence, requires_human_review
-    #                           -> judge (Node 5)
+    # --- Written by: judge_decision (Node 5) ---
+    final_decision: NotRequired[FinalDecision]
+    judge_flags: NotRequired[list[str]]
