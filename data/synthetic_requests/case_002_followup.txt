@@ -1,0 +1,34 @@
+PRIOR AUTHORIZATION REQUEST — ADDENDUM
+
+Patient: [SYNTHETIC] Morgan P., DOB 09/22/1965 (Age 60), Sex: F
+Requesting Provider: Dr. L. Chen, Sports Medicine Clinic
+Date of Original Request: 06/11/2026
+Date of Addendum: 06/13/2026
+Reference: Resubmission with additional documentation per PA reviewer request.
+
+Requested Service: Right knee arthroscopy with partial meniscectomy, outpatient
+Requested CPT: 29881 (Arthroscopy, knee, surgical; with meniscectomy)
+
+Diagnosis: Medial meniscus tear, right knee, with mechanical symptoms.
+ICD-10: M23.201 (Derangement of unspecified medial meniscus due to old tear or injury,
+right knee)
+
+Clinical Notes (updated):
+Patient reports 5 months of right knee pain and intermittent locking
+or catching, worse with twisting motions and stairs. MRI performed
+03/2026 shows a complex tear of the medial meniscus with a displaced
+fragment (bucket-handle pattern). Patient completed 8 weeks of formal
+in-person physical therapy (documented, completed 05/2026) and a
+corticosteroid injection in 04/2026 with only temporary relief. Exam
+shows joint line tenderness, a positive McMurray test, and mild
+effusion. Ordering provider recommends arthroscopic partial
+meniscectomy given failed conservative treatment and ongoing
+mechanical symptoms.
+
+Additional documentation provided per reviewer request:
+- Osteoarthritis grading: Kellgren-Lawrence Grade I (minimal OA, no joint
+  space narrowing). Outerbridge Grade I-II on arthroscopic correlation.
+- Physical therapy records: 8 sessions over 8 weeks (04/2026-05/2026),
+  formal in-person PT at City Sports Rehab. Documentation attached.
+- MRI report (03/2026): Complex tear medial meniscus with displaced bucket-handle
+  fragment, mild joint effusion, no significant chondral damage. No ACL/PCL injury.

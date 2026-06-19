@@ -9,6 +9,9 @@ __pycache__/
 # Generated vector store index -- regenerate by running scripts/build_index.py
 data/vectorstore/
 
+# SQLite checkpoint database -- regenerated at runtime, contains case state
+data/checkpoints.db
+
 # Local planning/process docs -- not pushed to the repo
 CLAUDE.md
 DECISIONS.md

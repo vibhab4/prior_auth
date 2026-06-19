@@ -16,12 +16,19 @@ from prior_auth.nodes.retrieve_policy import retrieve_policy
 from prior_auth.state import PriorAuthState
 
 
-def build_graph():
+def build_graph(checkpointer=None):
     """Build and compile the prior-auth review graph.
 
     Phase 1 complete topology (Increments 1-5):
         START -> extract_request -> retrieve_policy -> propose_coverage
              -> critique_proposal -> judge_decision -> END
+
+    Args:
+        checkpointer: Optional LangGraph checkpointer (e.g. SqliteSaver).
+            When provided, the full state is persisted after each node runs,
+            enabling "need more info" cases to be resumed later. Each run
+            must pass config={"configurable": {"thread_id": "<case_id>"}}
+            to .invoke() so the checkpointer can key the saved state.
 
     Returns a compiled LangGraph graph that accepts PriorAuthState-shaped
     dicts via .invoke() / .stream().
@@ -41,4 +48,4 @@ def build_graph():
     graph.add_edge("critique_proposal", "judge_decision")
     graph.add_edge("judge_decision", END)
 
-    return graph.compile()
+    return graph.compile(checkpointer=checkpointer)
